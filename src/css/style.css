@@ -1,0 +1,10 @@
+.header-banner {
+    max-height: 170px;
+    overflow: hidden;
+}
+.header-banner img{
+    width : 100%;
+}
+.list-item {
+    min-height: 70px;
+}
